@@ -1,5 +1,5 @@
 {
-  "validated_at_utc": "20261103T071431230150Z",
+  "validated_at_utc": "20261104T013007068580Z",
   "channels": 20,
   "sha256": "4b811466fccf14d63eedb7a2236aa6cae3a84a50e55c94a95b3344764081a702",
   "sources": {
@@ -17,9 +17,9 @@
     }
   },
   "last_source_pull_utc": "20261103T071431230150Z",
-  "decoded_streams": 20,
+  "decoded_streams": 7,
   "channels_by_source": {
-    "hk": 5,
-    "tw": 15
+    "tw": 15,
+    "hk": 5
   }
 }
