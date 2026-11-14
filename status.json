@@ -1,7 +1,7 @@
 {
-  "validated_at_utc": "20261113T013006420794Z",
-  "channels": 6,
-  "sha256": "37d96c4b3acee02d47b774fd07ebd5410ebbafcc77234aa3ef4d5e8e15bfcad6",
+  "validated_at_utc": "20261114T022024834327Z",
+  "channels": 14,
+  "sha256": "ab0cc8eefcefd74a7b1ce9af81e7caf7c24b50c8e08175885e73a331dce94d39",
   "sources": {
     "hk": {
       "url": "https://iptv-org.github.io/iptv/countries/hk.m3u",
@@ -17,9 +17,9 @@
     }
   },
   "last_source_pull_utc": "20261109T010006221839Z",
-  "decoded_streams": 3,
+  "decoded_streams": 13,
   "channels_by_source": {
     "hk": 0,
-    "tw": 6
+    "tw": 14
   }
 }
