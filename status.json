@@ -1,5 +1,5 @@
 {
-  "validated_at_utc": "20261115T013005512414Z",
+  "validated_at_utc": "20261116T013005204357Z",
   "channels": 22,
   "sha256": "4b5b145fc72b9ca7c3e6541c6592dfe5d9907aa5368f9abdb4cfb46ed4e05e0e",
   "sources": {
@@ -16,10 +16,10 @@
       "bytes": 6211
     }
   },
-  "last_source_pull_utc": "20261109T010006221839Z",
-  "decoded_streams": 21,
+  "last_source_pull_utc": "20261116T010005867664Z",
+  "decoded_streams": 3,
   "channels_by_source": {
-    "tw": 15,
-    "hk": 7
+    "hk": 7,
+    "tw": 15
   }
 }
